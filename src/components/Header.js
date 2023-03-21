@@ -9,7 +9,7 @@ const Header = () => {
         <div className="flex justify-between items-center">
           {/* {logo} */}
           <a href="#">
-            <img src="{Logo}" alt="" />
+            <img src={Logo} alt="" />
           </a>
           {/* {button} */}
           <button className="btn btn-sm">Work with me</button>
